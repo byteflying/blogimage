@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>icon-pulse-monitor-32-color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-pulse-monitor-32-color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M29,28 L3,28 C1.34371525,28 0,26.6562847 0,25 L0,7 C0,5.34371525 1.34371525,4 3,4 L29,4 C30.6562847,4 32,5.34371525 32,7 L32,25 C32,26.6562847 30.6562847,28 29,28 Z M29,26 C29.5517153,26 30,25.5517153 30,25 L30,7 C30,6.44828475 29.5517153,6 29,6 L3,6 C2.44828475,6 2,6.44828475 2,7 L2,25 C2,25.5517153 2.44828475,26 3,26 L29,26 Z" id="Stroke-1" fill="#535966" fill-rule="nonzero"></path>
+        <path d="M22,16 C22,17.6562847 23.3437153,19 25,19 C26.6562847,19 28,17.6562847 28,16 C28,14.3437153 26.6562847,13 25,13 C23.3437153,13 22,14.3437153 22,16 Z M24,16 C24,15.4482847 24.4482847,15 25,15 C25.5517153,15 26,15.4482847 26,16 C26,16.5517153 25.5517153,17 25,17 C24.4482847,17 24,16.5517153 24,16 Z" id="Stroke-3" fill="#535966" fill-rule="nonzero"></path>
+        <polygon id="Stroke-5" fill="#00BFB3" fill-rule="nonzero" points="12.1053502 24.128935 15.1350034 14.0300909 16.322967 17 20 17 20 15 17.677033 15 14.8649966 7.96990913 11.8946498 17.871065 9.25085415 10.8209431 6.46481624 15 4 15 4 17 7.53518376 17 8.74914585 15.1790569"></polygon>
+    </g>
+</svg>

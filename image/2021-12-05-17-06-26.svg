@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#535966" fill-rule="nonzero" d="M27,1 L5,1 C2.790861,1 1,2.790861 1,5 L1,27 C1,29.209139 2.790861,31 5,31 L27,31 C29.209139,31 31,29.209139 31,27 L31,5 C31,2.790861 29.209139,1 27,1 Z M5,3 L27,3 C28.1045695,3 29,3.8954305 29,5 L29,27 C29,28.1045695 28.1045695,29 27,29 L5,29 C3.8954305,29 3,28.1045695 3,27 L3,5 C3,3.8954305 3.8954305,3 5,3 Z"/>
+    <polygon fill="#00BFB3" fill-rule="nonzero" points="27 19 27 21 5 21 5 19"/>
+    <polygon fill="#00BFB3" fill-rule="nonzero" points="27 10 27 12 5 12 5 10"/>
+    <polygon fill="#00BFB3" fill-rule="nonzero" points="17 19 17 27 15 27 15 19"/>
+  </g>
+</svg>

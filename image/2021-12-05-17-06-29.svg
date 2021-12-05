@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>icon-clipboard-32-color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-clipboard-32-color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Stroke-1" fill="#535966" fill-rule="nonzero" points="26 8 26 30 6 30 6 8 8 8 8 6 4 6 4 32 28 32 28 6 24 6 24 8"></polygon>
+        <path d="M16,1 C14.6943141,1 13.5828751,1.8350542 13.1708455,3 L10,3 L10,9 L22,9 L22,3 L18.8291545,3 C18.4171249,1.8350542 17.3056859,1 16,1 Z M20,5 L20,7 L12,7 L12,5 L15,5 L15,4 C15,3.44828475 15.4482847,3 16,3 C16.5517153,3 17,3.44828475 17,4 L17,5 L20,5 Z" id="Stroke-3" fill="#00BFB3" fill-rule="nonzero"></path>
+        <polygon id="Stroke-5" fill="#00BFB3" fill-rule="nonzero" points="11.7071068 19.2928932 10.2928932 20.7071068 14.0487101 24.4629236 21.7525767 15.6585046 20.2474233 14.3414954 13.9512899 21.5370764"></polygon>
+    </g>
+</svg>
